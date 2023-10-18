@@ -1,0 +1,35 @@
+@media (max-width: 750px) and (min-width: 510px){
+    main{
+        width: 75%;
+    }
+}
+@media (max-width: 850px) and (min-width: 650px){
+    main{
+        width: 60%;
+    }
+}
+@media (max-width: 950px) and (min-width: 800px){
+    main{
+        width: 50%;
+    }
+}
+@media (max-width: 1050px) and (min-width: 950px){
+    main{
+        width: 45%;
+    }
+}
+@media (max-width: 1150px) and (min-width: 1050px){
+    main{
+        width: 40%;
+    }
+}
+@media (max-width: 1350px) and (min-width: 1150px){
+    main{
+        width: 35%;
+    }
+}
+@media (max-width: 13450px) and (min-width: 1350px){
+    main{
+        width: 25%;
+    }
+}
